@@ -179,6 +179,8 @@
     }
 }
 /* fatto */
+
+
 .ex-13-top-white{
     animation: sopra 5s linear infinite;
 }
@@ -186,30 +188,6 @@
 .ex-13-bottom-white{
     animation: sotto 5s linear infinite;
 }
-/* @keyframes sopra{
-    from{
-        position: absolute;
-        top: -10px;
-        left: 10%;
-    }
-    to{ position: absolute;
-        top: -10px;
-        left: 70%; 
-    }
-}
-@keyframes sotto{
-    from{
-        position: absolute;
-        bottom: -10px;
-        right: 20%;
-    }
-    to{
-        position: absolute;
-        bottom: -10px;
-        right: 70%;
-    }
-    
-} */
 
 @keyframes sopra{
     0%{
